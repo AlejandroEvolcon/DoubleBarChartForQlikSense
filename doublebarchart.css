@@ -1,0 +1,15 @@
+.qv-object-simplescatterplot div.qv-object-content-container {
+	font: 10px sans-serif;
+}
+
+.qv-object-simplescatterplot .axis path,
+.qv-object-simplescatterplot .axis line {
+  fill: none;
+  stroke: #000;
+  shape-rendering: crispEdges;
+}
+ 
+.qv-object-simplescatterplot .dot {
+  stroke: #000;
+}
+
